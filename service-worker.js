@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vito.github.io/precache-manifest.ef6b21fa9965790d1fa189039c1fe938.js"
+  "/vito.github.io/precache-manifest.b21b0cbc6287d759b0ed182f670e5b3f.js"
 );
 
 self.addEventListener('message', (event) => {
