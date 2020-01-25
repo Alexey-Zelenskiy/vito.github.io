@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vito.github.io/static/css/main.d4e3c543.chunk.css",
-    "main.js": "/vito.github.io/static/js/main.1a810e39.chunk.js",
-    "main.js.map": "/vito.github.io/static/js/main.1a810e39.chunk.js.map",
+    "main.js": "/vito.github.io/static/js/main.4323461d.chunk.js",
+    "main.js.map": "/vito.github.io/static/js/main.4323461d.chunk.js.map",
     "runtime-main.js": "/vito.github.io/static/js/runtime-main.eb5c9f92.js",
     "runtime-main.js.map": "/vito.github.io/static/js/runtime-main.eb5c9f92.js.map",
     "static/js/2.356f591a.chunk.js": "/vito.github.io/static/js/2.356f591a.chunk.js",
     "static/js/2.356f591a.chunk.js.map": "/vito.github.io/static/js/2.356f591a.chunk.js.map",
     "index.html": "/vito.github.io/index.html",
-    "precache-manifest.69be97a804b711a5a65924fc4aaa29cb.js": "/vito.github.io/precache-manifest.69be97a804b711a5a65924fc4aaa29cb.js",
+    "precache-manifest.ef6b21fa9965790d1fa189039c1fe938.js": "/vito.github.io/precache-manifest.ef6b21fa9965790d1fa189039c1fe938.js",
     "service-worker.js": "/vito.github.io/service-worker.js",
     "static/css/main.d4e3c543.chunk.css.map": "/vito.github.io/static/css/main.d4e3c543.chunk.css.map",
     "static/js/2.356f591a.chunk.js.LICENSE": "/vito.github.io/static/js/2.356f591a.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.eb5c9f92.js",
     "static/js/2.356f591a.chunk.js",
     "static/css/main.d4e3c543.chunk.css",
-    "static/js/main.1a810e39.chunk.js"
+    "static/js/main.4323461d.chunk.js"
   ]
 }
